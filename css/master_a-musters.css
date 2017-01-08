@@ -46,17 +46,69 @@
 	background-size: cover;
 }
 
-#u465,#u463
+#u680
 {
 	background-color: #2E2E2E;
 }
 
-#u174_align_to_page,#u463_align_to_page
+#u174_align_to_page,#u680_align_to_page
 {
 	position: relative;
 }
 
-#u460-4,#u461-4
+#u687
+{
+	position: relative;
+	background: transparent url("../images/lmu.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u694
+{
+	position: relative;
+	background: transparent url("../images/unima.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u701
+{
+	position: relative;
+	background: transparent url("../images/asa_datafest-u701-fr.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u708
+{
+	position: relative;
+	background: transparent url("../images/p3_group.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u681-25
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 9px;
+	line-height: 11px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+}
+
+#u682-20
+{
+	background-color: transparent;
+	font-size: 9px;
+	line-height: 11px;
+	position: relative;
+}
+
+#u682-2,#u682-4,#u682-5,#u682-7,#u682-9,#u682-11,#u682-12,#u682-14,#u682-15,#u682-17
+{
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u685-4,#u460-4,#u461-4
 {
 	background-color: transparent;
 	color: #FFFFFF;

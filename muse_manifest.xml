@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.datafest.de" resolutions="1x" timestamp="1483731534601">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.datafest.de" resolutions="1x" timestamp="1483886719315">
   <folder name="css">
     <file name="site_global.css" crc="314950038"/>
-    <file name="master_a-musters.css" crc="450582210" ref="index"/>
-    <file name="index.css" crc="390288751" ref="index"/>
+    <file name="master_a-musters.css" crc="451230310" ref="index"/>
+    <file name="index.css" crc="4225786748" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:index"/>
@@ -43,13 +43,17 @@
     <file name="13.jpg" crc="213194994" ref="index"/>
     <file name="14.jpg" crc="282531940" ref="index"/>
     <file name="15.jpg" crc="4093617133" ref="index"/>
+    <file name="lmu.jpg" crc="270702766" ref="index"/>
+    <file name="unima.jpg" crc="4289030574" ref="index"/>
+    <file name="asa_datafest-u701-fr.jpg" crc="422201115" ref="index"/>
+    <file name="p3_group.jpg" crc="4178379100" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-musters.css" crc="4030900562" ref="phone>index"/>
-      <file name="index.css" crc="4267097629" ref="phone>index"/>
+      <file name="index.css" crc="4289963723" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3930188048" seo="true" mt="1483561598903" redirect="true"/>
+    <file name="index.html" crc="4045614074" seo="true" mt="1483886645817" redirect="true"/>
   </folder>
-  <file name="index.html" crc="404971057" seo="true" mt="1483731532870" redirect="true"/>
+  <file name="index.html" crc="4052782131" seo="true" mt="1483886716720" redirect="true"/>
 </manifest>

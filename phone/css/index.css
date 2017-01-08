@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FE;
-	background-color: #56BE1D;
+	color: #0000FF;
+	background-color: #B3A6CB;
 }
 
 @-ms-viewport
@@ -86,7 +86,7 @@
 
 #u578-13
 {
-	z-index: 78;
+	z-index: 101;
 	width: 358px;
 	min-height: 279px;
 	background-color: transparent;
@@ -104,7 +104,7 @@
 
 #u579-4
 {
-	z-index: 91;
+	z-index: 114;
 	width: 214px;
 	min-height: 23px;
 	background-color: transparent;
@@ -284,7 +284,7 @@
 	position: relative;
 }
 
-#u577-14
+#u577-36
 {
 	z-index: 45;
 	width: 340px;
@@ -292,7 +292,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #2E2E2E;
 	text-align: justify;
+	line-height: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -300,25 +302,9 @@
 	left: 9px;
 }
 
-#u577-6
-{
-	color: #FFFFFF;
-}
-
-#u577,#u577-5,#u577-7,#u577-9,#u577-10
-{
-	color: #2E2E2E;
-}
-
-#u577-12
-{
-	line-height: 20px;
-	color: #2E2E2E;
-}
-
 #u570
 {
-	z-index: 59;
+	z-index: 81;
 	width: 358px;
 	background-color: transparent;
 	position: relative;
@@ -326,7 +312,7 @@
 
 #u571-4
 {
-	z-index: 60;
+	z-index: 82;
 	width: 346px;
 	min-height: 19px;
 	border-width: 1px;
@@ -380,7 +366,7 @@
 
 #u572
 {
-	z-index: 64;
+	z-index: 86;
 	width: 356px;
 	border-width: 1px;
 	border-style: solid;
@@ -390,25 +376,21 @@
 	position: relative;
 }
 
-#u573-13
+#u573-14
 {
-	z-index: 65;
+	z-index: 87;
 	width: 340px;
 	min-height: 105px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 20px;
 	color: #2E2E2E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: 9px;
-}
-
-#u573-11
-{
-	line-height: 20px;
 }
 
 .AccordionPanelTab /* accordion */
