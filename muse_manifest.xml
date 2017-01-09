@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.datafest.de" resolutions="1x" timestamp="1483886719315">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.datafest.de" resolutions="1x" timestamp="1483959584606">
   <folder name="css">
-    <file name="site_global.css" crc="314950038"/>
-    <file name="master_a-musters.css" crc="451230310" ref="index"/>
-    <file name="index.css" crc="4225786748" ref="index"/>
+    <file name="site_global.css" crc="3813290865"/>
+    <file name="master_a-musters.css" crc="4158591688" ref="index"/>
+    <file name="index.css" crc="19765486" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:index"/>
@@ -50,10 +50,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-musters.css" crc="4030900562" ref="phone>index"/>
-      <file name="index.css" crc="4289963723" ref="phone>index"/>
+      <file name="master_a-musters.css" crc="430791312" ref="phone>index"/>
+      <file name="index.css" crc="419212315" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4045614074" seo="true" mt="1483886645817" redirect="true"/>
+    <file name="index.html" crc="4045614074" seo="true" mt="1483959355942" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4052782131" seo="true" mt="1483886716720" redirect="true"/>
+  <file name="index.html" crc="314588812" seo="true" mt="1483959582392" redirect="true"/>
 </manifest>
