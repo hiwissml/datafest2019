@@ -1,0 +1,65 @@
+#u742
+{
+	background-color: #2E2E2E;
+}
+
+#u742_align_to_page
+{
+	position: relative;
+}
+
+#u755
+{
+	position: relative;
+	background: transparent url("../images/lmu.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u743
+{
+	position: relative;
+	background: transparent url("../images/unima.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u753
+{
+	position: relative;
+	background: transparent url("../images/asa_datafest-u701-fr.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u748
+{
+	position: relative;
+	background: transparent url("../images/p3_group.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u751-23
+{
+	background-color: transparent;
+	line-height: 11px;
+	font-size: 9px;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+}
+
+#u752-17
+{
+	background-color: transparent;
+	line-height: 11px;
+	font-size: 9px;
+	color: #FFFFFF;
+	position: relative;
+}
+
+#u746-4,#u750-4,#u744-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+}
+

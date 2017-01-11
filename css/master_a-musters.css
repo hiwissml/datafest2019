@@ -14,8 +14,8 @@
 {
 	background-color: transparent;
 	line-height: 26px;
-	color: #FFFFFF;
 	font-size: 22px;
+	color: #FFFFFF;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	-webkit-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-5,27);
 	-ms-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-5,27);
@@ -27,8 +27,8 @@
 {
 	background-color: transparent;
 	line-height: 26px;
-	color: #FFFFFF;
 	font-size: 22px;
+	color: #FFFFFF;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	-webkit-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-8,27);
 	-ms-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-8,27);
@@ -88,23 +88,19 @@
 {
 	background-color: transparent;
 	line-height: 11px;
-	color: #FFFFFF;
 	font-size: 9px;
+	color: #FFFFFF;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 }
 
-#u682-19
+#u682-17
 {
 	background-color: transparent;
-	font-size: 9px;
 	line-height: 11px;
-	position: relative;
-}
-
-#u682-2,#u682-3,#u682-5,#u682-6,#u682-8,#u682-10,#u682-12,#u682-13,#u682-15,#u682-16
-{
+	font-size: 9px;
 	color: #FFFFFF;
+	position: relative;
 }
 
 #u685-4,#u460-4,#u461-4
