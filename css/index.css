@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000D;
-	background-color: #6CADFF;
+	color: #00000C;
+	background-color: #870F12;
 }
 
 .html
@@ -105,7 +105,7 @@
 
 #u100
 {
-	z-index: 254;
+	z-index: 245;
 	height: 50px;
 	background-color: #303030;
 	background-color: rgba(0,0,0,0.81);
@@ -114,7 +114,7 @@
 
 #u100-bw
 {
-	z-index: 254;
+	z-index: 245;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -123,7 +123,7 @@
 
 #u368
 {
-	z-index: 255;
+	z-index: 246;
 	width: 72px;
 	height: 49px;
 	position: fixed;
@@ -135,7 +135,7 @@
 
 #menuu401
 {
-	z-index: 256;
+	z-index: 247;
 	width: 603px;
 	border-style: none;
 	border-color: transparent;
@@ -558,14 +558,14 @@
 	margin-bottom: -1px;
 }
 
-#u355-49
+#u355-42
 {
 	z-index: 113;
 	width: 795px;
 	min-height: 274px;
 	background-color: transparent;
-	text-align: justify;
 	color: #FFFFFF;
+	text-align: justify;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -573,7 +573,7 @@
 	left: 183px;
 }
 
-#u355-4,#u355-7,#u355-11,#u355-15,#u355-19,#u355-21,#u355-25,#u355-28,#u355-30,#u355-34,#u355-36,#u355-40,#u355-42
+#u355-4,#u355-7,#u355-10,#u355-13,#u355-16,#u355-18,#u355-21,#u355-24,#u355-26,#u355-29,#u355-31,#u355-34,#u355-36
 {
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
@@ -619,12 +619,12 @@
 
 #u356-17
 {
-	z-index: 162;
+	z-index: 155;
 	width: 795px;
 	min-height: 239px;
 	background-color: transparent;
-	text-align: justify;
 	color: #FFFFFF;
+	text-align: justify;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -672,7 +672,7 @@
 
 #u361-18
 {
-	z-index: 217;
+	z-index: 208;
 	width: 534px;
 	min-height: 240px;
 	background-color: transparent;
@@ -697,7 +697,7 @@
 
 #u683
 {
-	z-index: 240;
+	z-index: 231;
 	width: 295px;
 	min-height: 240px;
 	border-style: none;
@@ -741,7 +741,7 @@
 
 #u852
 {
-	z-index: 241;
+	z-index: 232;
 	min-height: 241px;
 	background-color: #2E2E2E;
 	padding-bottom: 67px;
@@ -749,7 +749,7 @@
 
 #u853-10
 {
-	z-index: 242;
+	z-index: 233;
 	width: 795px;
 	min-height: 175px;
 	background-color: transparent;
@@ -763,7 +763,7 @@
 
 #u852-bw
 {
-	z-index: 241;
+	z-index: 232;
 	min-height: 241px;
 }
 
@@ -778,7 +778,7 @@
 
 #u854
 {
-	z-index: 252;
+	z-index: 243;
 	height: 437px;
 	background: transparent url("../images/2828246011_5f55a6a06f_z.jpg") no-repeat left top;
 	background-size: cover;
@@ -786,7 +786,7 @@
 
 #u854-bw
 {
-	z-index: 252;
+	z-index: 243;
 	height: 437px;
 }
 
@@ -1413,14 +1413,14 @@
 	left: -100px;
 }
 
-#u360-38
+#u360-36
 {
-	z-index: 179;
+	z-index: 172;
 	width: 795px;
 	min-height: 449px;
 	background-color: transparent;
-	text-align: justify;
 	color: #FFFFFF;
+	text-align: justify;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;

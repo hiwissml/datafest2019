@@ -14,8 +14,8 @@
 {
 	background-color: transparent;
 	line-height: 26px;
-	font-size: 22px;
 	color: #FFFFFF;
+	font-size: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	-webkit-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-5,27);
 	-ms-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-5,27);
@@ -27,8 +27,8 @@
 {
 	background-color: transparent;
 	line-height: 26px;
-	font-size: 22px;
 	color: #FFFFFF;
+	font-size: 22px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	-webkit-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-8,27);
 	-ms-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-8,27);
@@ -88,8 +88,8 @@
 {
 	background-color: transparent;
 	line-height: 11px;
-	font-size: 9px;
 	color: #FFFFFF;
+	font-size: 9px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 }
@@ -97,8 +97,8 @@
 #u682-17
 {
 	background-color: transparent;
-	line-height: 11px;
 	font-size: 9px;
+	line-height: 11px;
 	color: #FFFFFF;
 	position: relative;
 }

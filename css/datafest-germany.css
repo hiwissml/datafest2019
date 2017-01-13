@@ -1,7 +1,7 @@
 .version.datafest_germany /* version checker */
 {
-	color: #0000E0;
-	background-color: #5F4B1C;
+	color: #0000F9;
+	background-color: #73135C;
 }
 
 .html
@@ -69,8 +69,8 @@
 	width: 795px;
 	min-height: 150px;
 	background-color: transparent;
-	text-align: justify;
 	color: #FFFFFF;
+	text-align: justify;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
