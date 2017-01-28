@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.datafest.de" resolutions="1x" timestamp="1485525347153">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.datafest.de" resolutions="1x" timestamp="1485605295719">
   <folder name="css">
-    <file name="site_global.css" crc="4183890903"/>
+    <file name="site_global.css" crc="3945118575"/>
     <file name="master_b-musters.css" crc="211050205" ref="datafest-germany"/>
     <file name="master_a-musters_-eng.css" crc="4032581079" ref="datafest-germany-eng"/>
     <file name="master_a-musters.css" crc="3959417518" ref="index"/>
-    <file name="datafest-germany-eng.css" crc="244719734" ref="datafest-germany-eng"/>
+    <file name="datafest-germany-eng.css" crc="4221096052" ref="datafest-germany-eng"/>
+    <file name="index.css" crc="404017814" ref="index"/>
     <file name="datafest-germany.css" crc="4185068380" ref="datafest-germany"/>
-    <file name="index.css" crc="3984659752" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:index:datafest-germany:datafest-germany-eng"/>
@@ -25,13 +25,13 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:datafest-germany:datafest-germany-eng"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3787811413" ref="phone>index"/>
+    <file name="favicon.ico" crc="3787811413" ref="phone>index:index"/>
     <file name="logo-hell-min.png" crc="4146280528" seo="true" ref="phone>index"/>
     <file name="bild11.jpg" crc="179092746" ref="index:datafest-germany-eng"/>
     <file name="bild12.png" crc="529249245" ref="index:datafest-germany-eng"/>
-    <file name="eng.jpg" crc="231089487" ref="index"/>
     <file name="logo.png" crc="4214440948" ref="index:datafest-germany-eng"/>
     <file name="logo-u368-fr.png" crc="125695038" ref="index:datafest-germany:datafest-germany-eng"/>
+    <file name="eng.jpg" crc="231089487" ref="index"/>
     <file name="bild2.jpg" crc="448160464" ref="index:datafest-germany-eng"/>
     <file name="bild3.jpg" crc="530501537" ref="index:datafest-germany-eng"/>
     <file name="bild4.jpg" crc="243853595" ref="index:datafest-germany-eng"/>
@@ -63,7 +63,7 @@
     </folder>
     <file name="index.html" crc="395369578" seo="true" mt="1484319703953" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4251752740" seo="true" mt="1485525344261" redirect="true"/>
+  <file name="index.html" crc="3949553759" seo="true" mt="1485605292965" redirect="true"/>
   <file name="datafest-germany.html" crc="49583029" seo="true" mt="1484319285265" redirect="true"/>
-  <file name="datafest-germany-eng.html" crc="443004891" seo="true" mt="1485525344310" redirect="true"/>
+  <file name="datafest-germany-eng.html" crc="353837083" seo="true" mt="1485605292963" redirect="true"/>
 </manifest>

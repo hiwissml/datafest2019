@@ -1,7 +1,7 @@
 .version.datafest_germany_eng /* version checker */
 {
-	color: #00000E;
-	background-color: #962076;
+	color: #0000FB;
+	background-color: #98D074;
 }
 
 .html
@@ -64,64 +64,6 @@
 	left: 580px;
 }
 
-#u1016
-{
-	z-index: 248;
-	width: 56px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 16px;
-	left: 960px;
-}
-
-#pu1008
-{
-	z-index: 249;
-	width: 0.01px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u1008
-{
-	z-index: 0;
-	width: 56px;
-	opacity: 0.5;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	filter: alpha(opacity=50);
-	border-radius: 10px;
-	position: absolute;
-	top: 0px;
-	bottom: 0px;
-	background: transparent url("../images/german%20flag.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#pu1009-4
-{
-	width: 0.01px;
-	position: relative;
-	left: 17px;
-	padding-top: 5px;
-	z-index: 2;
-	padding-bottom: 5px;
-}
-
-#u1009-4
-{
-	z-index: 250;
-	width: 22px;
-	min-height: 13px;
-	background-color: transparent;
-	color: #FFFFFF;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	position: relative;
-	margin-right: -10000px;
-}
-
 #u1020-bw
 {
 	z-index: 4;
@@ -162,9 +104,9 @@
 #pu880
 {
 	width: 0.01px;
-	padding-bottom: 50px;
+	padding-bottom: 511px;
 	margin-left: -100px;
-	margin-top: -49px;
+	margin-top: -510px;
 }
 
 #u880
@@ -206,7 +148,7 @@
 	background-color: transparent;
 	position: fixed;
 	top: 531px;
-	left: 345px;
+	left: 250px;
 }
 
 #u904
@@ -602,6 +544,95 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
+}
+
+#u1016
+{
+	z-index: 248;
+	width: 56px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 70px;
+	left: 870px;
+}
+
+#pu1008
+{
+	z-index: 249;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1009-4
+{
+	z-index: 250;
+	width: 22px;
+	min-height: 13px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1039
+{
+	z-index: 293;
+	width: 56px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 543px;
+	left: 870px;
+}
+
+#pu1040
+{
+	z-index: 294;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1008,#u1040
+{
+	z-index: 0;
+	width: 56px;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	border-radius: 10px;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	background: transparent url("../images/german%20flag.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pu1009-4,#pu1041-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 17px;
+	padding-top: 5px;
+	z-index: 2;
+	padding-bottom: 5px;
+}
+
+#u1041-4
+{
+	z-index: 295;
+	width: 22px;
+	min-height: 13px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u928
