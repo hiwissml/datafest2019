@@ -7,6 +7,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.datafest.de/phone/homepage-englisch.html</loc>
+    <lastmod>2017-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.datafest.de/index.html</loc>
     <lastmod>2017-01-28</lastmod>
     <changefreq>weekly</changefreq>
