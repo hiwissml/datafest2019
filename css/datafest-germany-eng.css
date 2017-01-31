@@ -1,7 +1,7 @@
 .version.datafest_germany_eng /* version checker */
 {
-	color: #0000FD;
-	background-color: #80A758;
+	color: #000001;
+	background-color: #C358E5;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 5862px;
+	min-height: 5406px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -26,12 +26,6 @@
 {
 	margin-bottom: -323px;
 	width: 0.01px;
-}
-
-#pu1030
-{
-	width: 0.01px;
-	margin-left: -100px;
 }
 
 #u1030,#u1030-bw
@@ -721,9 +715,9 @@
 #u986
 {
 	z-index: 112;
-	min-height: 272px;
+	min-height: 304px;
 	background-color: #2E2E2E;
-	padding-bottom: 97px;
+	padding-bottom: 65px;
 }
 
 #u974-21
@@ -737,14 +731,14 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 33px;
+	margin-top: 65px;
 	left: 183px;
 }
 
 #u986-bw
 {
 	z-index: 112;
-	min-height: 272px;
+	min-height: 304px;
 }
 
 #u975
@@ -776,7 +770,7 @@
 	z-index: 113;
 	min-height: 265px;
 	background-color: #2E2E2E;
-	padding-bottom: 147px;
+	padding-bottom: 31px;
 }
 
 #u984-17
@@ -816,10 +810,20 @@
 #u927
 {
 	z-index: 75;
-	min-height: 384px;
-	padding-bottom: 303px;
+	min-height: 506px;
+	padding-bottom: 181px;
 	background: transparent url("../images/bild4.jpg") no-repeat center center;
 	background-size: cover;
+}
+
+#u927_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	position: relative;
+	left: -100px;
+	margin-bottom: -6px;
 }
 
 #sponsoring
@@ -827,14 +831,15 @@
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
-	margin-top: 366px;
+	margin-top: 488px;
 	left: 580px;
 }
 
 #u927-bw
 {
 	z-index: 75;
-	min-height: 384px;
+	min-height: 506px;
+	margin-top: -6px;
 }
 
 #u983
@@ -842,7 +847,7 @@
 	z-index: 235;
 	min-height: 241px;
 	background-color: #2E2E2E;
-	padding-bottom: 419px;
+	padding-bottom: 41px;
 }
 
 #u971-10
@@ -865,11 +870,68 @@
 	min-height: 241px;
 }
 
-#ppamphletu930
+#pteilnahme
 {
 	width: 0.01px;
-	padding-bottom: 1px;
 	margin-left: -100px;
+	margin-top: -4px;
+}
+
+#teilnahme
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 393px;
+	left: 569px;
+}
+
+#u968
+{
+	z-index: 246;
+	height: 437px;
+	background: transparent url("../images/2828246011_5f55a6a06f_z.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u968-bw
+{
+	z-index: 246;
+	height: 437px;
+}
+
+#pu1030,#pu970
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u970
+{
+	z-index: 79;
+	min-height: 719px;
+	background-color: #2E2E2E;
+	padding-bottom: 72px;
+}
+
+#u1143-15
+{
+	z-index: 286;
+	width: 796px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 651px;
+	left: 182px;
+}
+
+#u970-bw
+{
+	z-index: 79;
+	min-height: 719px;
+	margin-top: 544px;
 }
 
 #pamphletu930
@@ -880,7 +942,7 @@
 	padding-bottom: 33px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 136px;
+	margin-top: 203px;
 }
 
 #u946popup
@@ -1408,64 +1470,6 @@
 	cursor: pointer;
 }
 
-#teilnahme
-{
-	position: relative;
-	width: 22px;
-	margin-right: -10000px;
-	margin-top: 383px;
-	left: 580px;
-}
-
-#u968
-{
-	z-index: 246;
-	height: 437px;
-	background: transparent url("../images/2828246011_5f55a6a06f_z.jpg") no-repeat left top;
-	background-size: cover;
-}
-
-#u968-bw
-{
-	z-index: 246;
-	height: 437px;
-}
-
-#pu970
-{
-	width: 0.01px;
-	margin-left: -100px;
-	margin-top: -263px;
-}
-
-#u970
-{
-	z-index: 79;
-	min-height: 719px;
-	background-color: #2E2E2E;
-	padding-bottom: 72px;
-}
-
-#u1143-15
-{
-	z-index: 286;
-	width: 796px;
-	background-color: transparent;
-	color: #FFFFFF;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 651px;
-	left: 182px;
-}
-
-#u970-bw
-{
-	z-index: 79;
-	min-height: 719px;
-	margin-top: 544px;
-}
-
 #u979
 {
 	z-index: 114;
@@ -1474,7 +1478,7 @@
 	padding-bottom: 613px;
 }
 
-#u972_align_to_page,#u986_align_to_page,#u975_align_to_page,#u926_align_to_page,#u927_align_to_page,#u983_align_to_page,#u970_align_to_page,#u979_align_to_page
+#u972_align_to_page,#u986_align_to_page,#u975_align_to_page,#u926_align_to_page,#u983_align_to_page,#u970_align_to_page,#u979_align_to_page
 {
 	margin-left: auto;
 	margin-right: auto;
@@ -1514,7 +1518,7 @@
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
-	margin-top: 506px;
+	margin-top: 444px;
 	left: 569px;
 }
 

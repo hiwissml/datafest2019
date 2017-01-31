@@ -1,38 +1,38 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.datafest.de" resolutions="1x" timestamp="1485868207615">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.datafest.de" resolutions="1x" timestamp="1485878104107">
   <folder name="css">
-    <file name="site_global.css" crc="4183890903"/>
-    <file name="master_b-musters.css" crc="211050205" ref="datafest-germany"/>
+    <file name="site_global.css" crc="3945118575"/>
     <file name="master_a-musters.css" crc="3959417518" ref="index"/>
+    <file name="master_b-musters.css" crc="211050205" ref="datafest-germany-weiteres"/>
     <file name="master_a-musters_-eng.css" crc="4032581079" ref="datafest-germany-eng"/>
-    <file name="datafest-germany.css" crc="4185068380" ref="datafest-germany"/>
-    <file name="datafest-germany-eng.css" crc="4253067096" ref="datafest-germany-eng"/>
-    <file name="index.css" crc="3868136968" ref="index"/>
+    <file name="datafest-germany-eng.css" crc="29579493" ref="datafest-germany-eng"/>
+    <file name="datafest-germany-weiteres.css" crc="4185068380" ref="datafest-germany-weiteres"/>
+    <file name="index.css" crc="4273286589" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>homepage-englisch:index:datafest-germany:datafest-germany-eng"/>
-    <file name="museutils.js" crc="183364071" ref="phone>index:phone>homepage-englisch:index:datafest-germany:datafest-germany-eng"/>
-    <file name="jquery.scrolleffects.js" crc="3860644955" ref="phone>index:phone>homepage-englisch:index:datafest-germany:datafest-germany-eng"/>
-    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>homepage-englisch:index:datafest-germany:datafest-germany-eng"/>
-    <file name="pie.js" crc="3827607177" ref="phone>index:phone>homepage-englisch:index:datafest-germany:datafest-germany-eng"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>homepage-englisch:index:datafest-germany-weiteres:datafest-germany-eng"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:phone>homepage-englisch:index:datafest-germany-weiteres:datafest-germany-eng"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="phone>index:phone>homepage-englisch:index:datafest-germany-weiteres:datafest-germany-eng"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>homepage-englisch:index:datafest-germany-weiteres:datafest-germany-eng"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>homepage-englisch:index:datafest-germany-weiteres:datafest-germany-eng"/>
     <file name="webpro.js" crc="3803554875" ref="phone>index:phone>homepage-englisch:index:datafest-germany-eng"/>
     <file name="musewpdisclosure.js" crc="3993616448" ref="phone>index:phone>homepage-englisch"/>
     <file name="museredirect.js" crc="40941066" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:datafest-germany:datafest-germany-eng"/>
-    <file name="jquery.musemenu.js" crc="3957776250" ref="index:datafest-germany:datafest-germany-eng"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:datafest-germany-weiteres:datafest-germany-eng"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:datafest-germany-weiteres:datafest-germany-eng"/>
     <file name="musewpslideshow.js" crc="242596657" ref="index:datafest-germany-eng"/>
     <file name="jquery.museoverlay.js" crc="493285861" ref="index:datafest-germany-eng"/>
     <file name="touchswipe.js" crc="4038331989" ref="index:datafest-germany-eng"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:datafest-germany:datafest-germany-eng"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:datafest-germany-weiteres:datafest-germany-eng"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3787811413" ref="phone>index"/>
+    <file name="favicon.ico" crc="3787811413" ref="phone>index:index"/>
     <file name="logo-hell-min.png" crc="4146280528" seo="true" ref="phone>index:phone>homepage-englisch"/>
     <file name="eng.jpg" crc="231089487" ref="phone>index:index"/>
     <file name="german flag.jpg" crc="4254647388" ref="phone>homepage-englisch:datafest-germany-eng"/>
     <file name="bild11.jpg" crc="179092746" ref="index:datafest-germany-eng"/>
     <file name="bild12.png" crc="529249245" ref="index:datafest-germany-eng"/>
     <file name="logo.png" crc="4214440948" ref="index:datafest-germany-eng"/>
-    <file name="logo-u368-fr.png" crc="125695038" ref="index:datafest-germany:datafest-germany-eng"/>
+    <file name="logo-u368-fr.png" crc="125695038" ref="index:datafest-germany-weiteres:datafest-germany-eng"/>
     <file name="bild2.jpg" crc="448160464" ref="index:datafest-germany-eng"/>
     <file name="bild3.jpg" crc="530501537" ref="index:datafest-germany-eng"/>
     <file name="bild4.jpg" crc="243853595" ref="index:datafest-germany-eng"/>
@@ -51,21 +51,21 @@
     <file name="13.jpg" crc="213194994" ref="index:datafest-germany-eng"/>
     <file name="14.jpg" crc="282531940" ref="index:datafest-germany-eng"/>
     <file name="15.jpg" crc="4093617133" ref="index:datafest-germany-eng"/>
-    <file name="lmu.jpg" crc="270702766" ref="index:datafest-germany:datafest-germany-eng"/>
-    <file name="unima.jpg" crc="4289030574" ref="index:datafest-germany:datafest-germany-eng"/>
-    <file name="asa_datafest-u701-fr.jpg" crc="422201115" ref="index:datafest-germany:datafest-germany-eng"/>
-    <file name="p3_group.jpg" crc="4178379100" ref="index:datafest-germany:datafest-germany-eng"/>
+    <file name="lmu.jpg" crc="270702766" ref="index:datafest-germany-weiteres:datafest-germany-eng"/>
+    <file name="unima.jpg" crc="4289030574" ref="index:datafest-germany-weiteres:datafest-germany-eng"/>
+    <file name="asa_datafest-u701-fr.jpg" crc="422201115" ref="index:datafest-germany-weiteres:datafest-germany-eng"/>
+    <file name="p3_group.jpg" crc="4178379100" ref="index:datafest-germany-weiteres:datafest-germany-eng"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-musters.css" crc="430791312" ref="phone>homepage-englisch:phone>index"/>
-      <file name="homepage-englisch.css" crc="3776037443" ref="phone>homepage-englisch"/>
+      <file name="master_a-musters.css" crc="430791312" ref="phone>index:phone>homepage-englisch"/>
       <file name="index.css" crc="129604830" ref="phone>index"/>
+      <file name="homepage-englisch.css" crc="3776037443" ref="phone>homepage-englisch"/>
     </folder>
     <file name="index.html" crc="4132303571" seo="true" mt="1485867870003" redirect="true"/>
     <file name="homepage-englisch.html" crc="419399234" seo="true" mt="1485868054423" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4189961890" seo="true" mt="1485868203053" redirect="true"/>
-  <file name="datafest-germany.html" crc="49583029" seo="true" mt="1484319285265" redirect="true"/>
-  <file name="datafest-germany-eng.html" crc="3870885646" seo="true" mt="1485868203053" redirect="true"/>
+  <file name="index.html" crc="47963092" seo="true" mt="1485878100410" redirect="true"/>
+  <file name="datafest-germany-weiteres.html" crc="254947803" seo="true" mt="1485877715499" redirect="true"/>
+  <file name="datafest-germany-eng.html" crc="356328030" seo="true" mt="1485878100407" redirect="true"/>
 </manifest>
