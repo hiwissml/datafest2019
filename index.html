@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museredirect.js", "jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.scrolleffects.js", "jquery.watch.js", "jquery.musemenu.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "index.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.scrolleffects.js", "jquery.watch.js", "webpro.js", "museredirect.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "index.css"], "outOfDate":[]};
 </script>
   
   <script src="scripts/museredirect.js?40941066" type="text/javascript"></script>
@@ -20,7 +20,7 @@
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?3945118575"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-musters.css?3959417518"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?4273286589" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?4283679077" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -277,7 +277,7 @@
      <div class="browser_width grpelem" id="u359-bw">
       <div id="u359"><!-- group -->
        <div class="clearfix" id="u359_align_to_page">
-        <div class="clearfix grpelem" id="u360-39"><!-- content -->
+        <div class="clearfix grpelem" id="u360-47"><!-- content -->
          <p id="u360-2">WIE KANN ICH TEILNEHMEN?</p>
          <p>&nbsp;</p>
          <p>Bachelor- und Master-Studierende aller Fachrichtungen, insbesondere der Sozialwissenschaften, Statistik, Informatik und</p>
@@ -290,7 +290,11 @@
          <p><a class="nonblock" href="https://docs.google.com/forms/d/e/1FAIpQLSeUBnf1megU80ek1uIEFrCkw8P_7kvj1LtT9ji2ZQHdMbIA0A/viewform">Zum Anmeldeformular</a></p>
          <p>&nbsp;</p>
          <p>Kontoverbindung zur Überweisung der Teilnahmegebühr:</p>
-         <p>Kontoinhaber: Universität Mannheim GENAUE DATEN SPÄTER ERGÄNZEN</p>
+         <p>Kontoinhaber: Universität Mannheim</p>
+         <p>Bank: Baden-Württembergische Bank</p>
+         <p>IBAN: DE 13600501017496501068</p>
+         <p>BIC: SOLA DE ST 600</p>
+         <p>Betreff: PSP 4420600001 &quot;Euer Gruppenname&quot;</p>
          <p>&nbsp;</p>
          <p>WICHTIG: Ohne die korrekte ESP und FOND-Angabe lässt sich die Zahlung nicht bearbeiten!</p>
          <p>&nbsp;</p>
@@ -380,19 +384,19 @@ for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.re
 typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Einige der Dateien auf dem Server fehlen oder sind ungültig. Löschen Sie den Browser-Cache und versuchen Sie es erneut. Wenn das Problem weiterhin besteht, wenden Sie sich an den Autor der Website.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
-$('#u167').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,-100]},{"speed":[0,0],"in":[-100,Infinity]}]);/* scroll effect */
+$('#u167').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-100],"speed":[0,0]},{"in":[-100,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.resizeHeight()/* resize height */
-$('#u174').registerBackgroundPositionScrollEffect([{"speed":[0,0.7],"in":[-Infinity,43]},{"speed":[0,0.5],"in":[43,Infinity]}]);/* scroll effect */
-$('#u181').registerBackgroundPositionScrollEffect([{"speed":[0,0.7],"in":[-Infinity,43]},{"speed":[0,0.5],"in":[43,Infinity]}]);/* scroll effect */
-$('#u100-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,531]},{"speed":[null,0],"in":[531,Infinity]}]);/* scroll effect */
-$('#u368').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,531]},{"speed":[0,0],"in":[531,Infinity]}]);/* scroll effect */
+$('#u174').registerBackgroundPositionScrollEffect([{"in":[-Infinity,43],"speed":[0,0.7]},{"in":[43,Infinity],"speed":[0,0.5]}]);/* scroll effect */
+$('#u181').registerBackgroundPositionScrollEffect([{"in":[-Infinity,43],"speed":[0,0.7]},{"in":[43,Infinity],"speed":[0,0.5]}]);/* scroll effect */
+$('#u100-bw').registerPositionScrollEffect([{"in":[-Infinity,531],"speed":[null,1]},{"in":[531,Infinity],"speed":[null,0]}]);/* scroll effect */
+$('#u368').registerPositionScrollEffect([{"in":[-Infinity,531],"speed":[0,1]},{"in":[531,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#menuu401').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,531]},{"speed":[0,0],"in":[531,Infinity]}]);/* scroll effect */
-$('#u1042').registerPositionScrollEffect([{"speed":[-1,1],"in":[-Infinity,531.5]},{"speed":[0,0],"in":[531.5,Infinity]}]);/* scroll effect */
-$('#u132').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,874]},{"speed":[0,0],"in":[874,Infinity]}]);/* scroll effect */
-$('#u139').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,1599.05]},{"speed":[0,0],"in":[1599.05,Infinity]}]);/* scroll effect */
-$('#u147').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,2360]},{"speed":[0,0],"in":[2360,Infinity]}]);/* scroll effect */
-$('#u854').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,3114]},{"speed":[0,0],"in":[3114,Infinity]}]);/* scroll effect */
+$('#menuu401').registerPositionScrollEffect([{"in":[-Infinity,531],"speed":[0,1]},{"in":[531,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u1042').registerPositionScrollEffect([{"in":[-Infinity,531.5],"speed":[-1,1]},{"in":[531.5,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u132').registerBackgroundPositionScrollEffect([{"in":[-Infinity,874],"speed":[0,0]},{"in":[874,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u139').registerBackgroundPositionScrollEffect([{"in":[-Infinity,1599.05],"speed":[0,0]},{"in":[1599.05,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u147').registerBackgroundPositionScrollEffect([{"in":[-Infinity,2360],"speed":[0,0]},{"in":[2360,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u854').registerBackgroundPositionScrollEffect([{"in":[-Infinity,3114],"speed":[0,0]},{"in":[3114,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.initWidget('#pamphletu195', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'mouseout_trigger',autoPlay:true,displayInterval:4000,transitionStyle:'fading',transitionDuration:4000,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:5000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu195 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
