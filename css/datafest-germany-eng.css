@@ -1,7 +1,7 @@
 .version.datafest_germany_eng /* version checker */
 {
-	color: #0000F4;
-	background-color: #CD722C;
+	color: #0000FE;
+	background-color: #A5AC91;
 }
 
 .html
@@ -138,7 +138,7 @@
 
 #u880
 {
-	z-index: 309;
+	z-index: 312;
 	height: 50px;
 	background-color: #303030;
 	background-color: rgba(0,0,0,0.81);
@@ -147,7 +147,7 @@
 
 #u880-bw
 {
-	z-index: 309;
+	z-index: 312;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -156,7 +156,7 @@
 
 #u881
 {
-	z-index: 310;
+	z-index: 313;
 	width: 72px;
 	height: 49px;
 	position: fixed;
@@ -168,7 +168,7 @@
 
 #menuu882
 {
-	z-index: 311;
+	z-index: 314;
 	width: 595px;
 	border-style: none;
 	border-color: transparent;
@@ -575,7 +575,7 @@
 
 #u1039
 {
-	z-index: 348;
+	z-index: 351;
 	width: 56px;
 	border-style: none;
 	border-color: transparent;
@@ -587,7 +587,7 @@
 
 #pu1040
 {
-	z-index: 349;
+	z-index: 352;
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
@@ -633,7 +633,7 @@
 
 #u1041-4
 {
-	z-index: 350;
+	z-index: 353;
 	width: 22px;
 	min-height: 13px;
 	background-color: transparent;
@@ -842,12 +842,21 @@
 	margin-top: -6px;
 }
 
+#teilnahme
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 939px;
+	left: 580px;
+}
+
 #u983
 {
 	z-index: 243;
-	min-height: 241px;
+	min-height: 261px;
 	background-color: #2E2E2E;
-	padding-bottom: 41px;
+	padding-bottom: 96px;
 }
 
 #u971-10
@@ -860,30 +869,14 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 66px;
+	margin-top: 86px;
 	left: 182px;
 }
 
 #u983-bw
 {
 	z-index: 243;
-	min-height: 241px;
-}
-
-#pteilnahme
-{
-	width: 0.01px;
-	margin-left: -100px;
-	margin-top: -4px;
-}
-
-#teilnahme
-{
-	position: relative;
-	width: 22px;
-	margin-right: -10000px;
-	margin-top: 393px;
-	left: 569px;
+	min-height: 261px;
 }
 
 #u968
@@ -897,10 +890,28 @@
 #u968-bw
 {
 	z-index: 254;
+	margin-top: 581px;
 	height: 437px;
 }
 
-#pu1030,#pu970
+#u1151-3
+{
+	z-index: 309;
+	min-height: 247px;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	background: transparent url("../images/tableau_cmyk.jpg") no-repeat center top;
+	background-size: contain;
+}
+
+#u1151-3-bw
+{
+	z-index: 309;
+	min-height: 247px;
+	margin-top: 347px;
+}
+
+#pu1030,#pteilnahme,#pu970
 {
 	width: 0.01px;
 	margin-left: -100px;

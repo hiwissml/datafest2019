@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FF;
-	background-color: #53C165;
+	color: #00000A;
+	background-color: #46E7D0;
 }
 
 .html
@@ -138,7 +138,7 @@
 
 #u100
 {
-	z-index: 277;
+	z-index: 280;
 	height: 50px;
 	background-color: #303030;
 	background-color: rgba(0,0,0,0.81);
@@ -147,7 +147,7 @@
 
 #u100-bw
 {
-	z-index: 277;
+	z-index: 280;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -156,7 +156,7 @@
 
 #u368
 {
-	z-index: 278;
+	z-index: 281;
 	width: 72px;
 	height: 49px;
 	position: fixed;
@@ -168,7 +168,7 @@
 
 #menuu401
 {
-	z-index: 279;
+	z-index: 282;
 	width: 606px;
 	border-style: none;
 	border-color: transparent;
@@ -575,7 +575,7 @@
 
 #u1042
 {
-	z-index: 316;
+	z-index: 319;
 	width: 56px;
 	border-style: none;
 	border-color: transparent;
@@ -587,7 +587,7 @@
 
 #pu1043
 {
-	z-index: 317;
+	z-index: 320;
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
@@ -633,7 +633,7 @@
 
 #u1044-4
 {
-	z-index: 318;
+	z-index: 321;
 	width: 24px;
 	min-height: 13px;
 	background-color: transparent;
@@ -845,9 +845,9 @@
 #u852
 {
 	z-index: 243;
-	min-height: 241px;
+	min-height: 204px;
 	background-color: #2E2E2E;
-	padding-bottom: 67px;
+	padding-bottom: 295px;
 }
 
 #u853-10
@@ -860,14 +860,31 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 66px;
+	margin-top: 29px;
 	left: 182px;
 }
 
 #u852-bw
 {
 	z-index: 243;
-	min-height: 241px;
+	min-height: 204px;
+}
+
+#u1144-3
+{
+	z-index: 277;
+	min-height: 247px;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	background: transparent url("../images/tableau_cmyk.jpg") no-repeat center top;
+	background-size: contain;
+}
+
+#u1144-3-bw
+{
+	z-index: 277;
+	min-height: 247px;
+	margin-top: 224px;
 }
 
 #teilnahme
@@ -875,8 +892,8 @@
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
-	margin-top: 383px;
-	left: 580px;
+	margin-top: 403px;
+	left: 569px;
 }
 
 #u854
@@ -893,7 +910,7 @@
 	height: 437px;
 }
 
-#pu167,#pteilnahme,#pu844
+#pu167,#pu852,#pteilnahme,#pu844
 {
 	width: 0.01px;
 	margin-left: -100px;
@@ -1562,8 +1579,8 @@
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
-	margin-top: 506px;
-	left: 569px;
+	margin-top: 589px;
+	left: 580px;
 }
 
 #u680_align_to_page
