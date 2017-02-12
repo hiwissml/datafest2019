@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.datafest.de" resolutions="1x" timestamp="1486906756332">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.datafest.de" resolutions="1x" timestamp="1486908893719">
   <folder name="css">
     <file name="site_global.css" crc="3945118575"/>
     <file name="master_b-musters.css" crc="390546223" ref="datafest-germany-weiteres"/>
     <file name="master_a-musters_-eng.css" crc="411450466" ref="datafest-germany-eng"/>
     <file name="master_a-musters.css" crc="112309764" ref="index"/>
-    <file name="datafest-germany-eng.css" crc="4272270481" ref="datafest-germany-eng"/>
+    <file name="datafest-germany-eng.css" crc="4052941534" ref="datafest-germany-eng"/>
     <file name="index.css" crc="172419024" ref="index"/>
     <file name="datafest-germany-weiteres.css" crc="4185068380" ref="datafest-germany-weiteres"/>
   </folder>
@@ -60,13 +60,13 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_a-musters.css" crc="4030900562" ref="phone>homepage-englisch:phone>index"/>
-      <file name="homepage-englisch.css" crc="257776241" ref="phone>homepage-englisch"/>
+      <file name="homepage-englisch.css" crc="532573506" ref="phone>homepage-englisch"/>
       <file name="index.css" crc="4159156360" ref="phone>index"/>
     </folder>
     <file name="index.html" crc="489597432" seo="true" mt="1486046359682" redirect="true"/>
-    <file name="homepage-englisch.html" crc="4164788377" seo="true" mt="1486046374227" redirect="true"/>
+    <file name="homepage-englisch.html" crc="3846377915" seo="true" mt="1486908793308" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3970033956" seo="true" mt="1486906752327" redirect="true"/>
+  <file name="index.html" crc="3970033956" seo="true" mt="1486908889943" redirect="true"/>
   <file name="datafest-germany-weiteres.html" crc="254947803" seo="true" mt="1485877715499" redirect="true"/>
-  <file name="datafest-germany-eng.html" crc="348085938" seo="true" mt="1486906752329" redirect="true"/>
+  <file name="datafest-germany-eng.html" crc="3923903244" seo="true" mt="1486908889945" redirect="true"/>
 </manifest>
