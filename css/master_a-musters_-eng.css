@@ -13,9 +13,9 @@
 #u1022-4
 {
 	background-color: transparent;
+	line-height: 26px;
 	color: #FFFFFF;
 	font-size: 22px;
-	line-height: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	-webkit-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-5,27);
 	-ms-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-5,27);
@@ -26,9 +26,9 @@
 #u1027-9
 {
 	background-color: transparent;
+	line-height: 26px;
 	color: #FFFFFF;
 	font-size: 22px;
-	line-height: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	-webkit-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-11,27);
 	-ms-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-11,27);
@@ -105,12 +105,26 @@
 	background-size: contain;
 }
 
+#u1200
+{
+	position: relative;
+	background: transparent url("../images/logo_dc.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1201
+{
+	position: relative;
+	background: transparent url("../images/ram%20logo%202.jpg") no-repeat center center;
+	background-size: contain;
+}
+
 #u1021-23
 {
 	background-color: transparent;
+	line-height: 11px;
 	color: #FFFFFF;
 	font-size: 9px;
-	line-height: 11px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 }
