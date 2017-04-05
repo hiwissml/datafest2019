@@ -32,16 +32,16 @@
 #u748
 {
 	position: relative;
-	background: transparent url("../images/p3_group.jpg") no-repeat left top;
+	background: transparent url("../images/p3_group2.jpg") no-repeat left top;
 	background-size: contain;
 }
 
 #u751-23
 {
 	background-color: transparent;
-	line-height: 11px;
 	color: #FFFFFF;
 	font-size: 9px;
+	line-height: 11px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 }
