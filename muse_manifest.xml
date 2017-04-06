@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.datafest.de" resolutions="1x" timestamp="1491393514455">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.datafest.de" resolutions="1x" timestamp="1491485905300">
   <folder name="css">
     <file name="site_global.css" crc="3945118575"/>
-    <file name="master_a-musters_-eng.css" crc="4285711811" ref="datafest-germany-eng"/>
-    <file name="master_a-musters.css" crc="12725895" ref="index"/>
-    <file name="master_b-musters.css" crc="340242771" ref="datafest-germany-weiteres"/>
-    <file name="index.css" crc="409280357" ref="index"/>
-    <file name="datafest-germany-eng.css" crc="3864128088" ref="datafest-germany-eng"/>
+    <file name="master_a-musters_-eng.css" crc="476992472" ref="datafest-germany-eng"/>
+    <file name="master_b-musters.css" crc="261401761" ref="datafest-germany-weiteres"/>
+    <file name="master_a-musters.css" crc="4184678931" ref="index"/>
+    <file name="index.css" crc="4078727393" ref="index"/>
+    <file name="datafest-germany-eng.css" crc="386956544" ref="datafest-germany-eng"/>
     <file name="datafest-germany-weiteres.css" crc="4185068380" ref="datafest-germany-weiteres"/>
   </folder>
   <folder name="scripts">
@@ -58,6 +58,7 @@
     <file name="tableau_cmyk.jpg" crc="4031690501" ref="index:datafest-germany-eng"/>
     <file name="gim_logo_cmyk.jpg" crc="61731193" ref="index:datafest-germany-eng"/>
     <file name="sovanta_logo_claim_cmyk (1).jpg" crc="168508048" ref="index:datafest-germany-eng"/>
+    <file name="supercrunch_cmyk_combined_mark.jpg" crc="46729792" ref="index:datafest-germany-eng"/>
     <file name="falk itcs png kleiner als tableau.png" crc="355728309" ref="index:datafest-germany-eng"/>
     <file name="logo_dc.png" crc="3846069913" ref="index:datafest-germany-eng"/>
     <file name="ram logo 2.jpg" crc="4074764575" ref="index:datafest-germany-eng"/>
@@ -65,14 +66,14 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-musters.css" crc="4030900562" ref="phone>homepage-englisch:phone>index"/>
+      <file name="master_a-musters.css" crc="430791312" ref="phone>homepage-englisch:phone>index"/>
       <file name="homepage-englisch.css" crc="532573506" ref="phone>homepage-englisch"/>
-      <file name="index.css" crc="4159156360" ref="phone>index"/>
+      <file name="index.css" crc="109231169" ref="phone>index"/>
     </folder>
     <file name="index.html" crc="3886470407" seo="true" mt="1489059086036" redirect="true"/>
     <file name="homepage-englisch.html" crc="18050481" seo="true" mt="1489059067912" redirect="true"/>
   </folder>
-  <file name="index.html" crc="122552066" seo="true" mt="1491393510042" redirect="true"/>
+  <file name="index.html" crc="3861804488" seo="true" mt="1491485901149" redirect="true"/>
   <file name="datafest-germany-weiteres.html" crc="254947803" seo="true" mt="1485877715499" redirect="true"/>
-  <file name="datafest-germany-eng.html" crc="4082031045" seo="true" mt="1491393510040" redirect="true"/>
+  <file name="datafest-germany-eng.html" crc="4184866106" seo="true" mt="1491485901148" redirect="true"/>
 </manifest>

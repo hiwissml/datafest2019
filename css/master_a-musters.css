@@ -13,9 +13,9 @@
 #u188-4
 {
 	background-color: transparent;
+	line-height: 26px;
 	color: #FFFFFF;
 	font-size: 22px;
-	line-height: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	-webkit-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-5,27);
 	-ms-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-5,27);
@@ -26,9 +26,9 @@
 #u189-7
 {
 	background-color: transparent;
+	line-height: 26px;
 	color: #FFFFFF;
 	font-size: 22px;
-	line-height: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	-webkit-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-8,27);
 	-ms-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-8,27);
@@ -105,6 +105,13 @@
 	background-size: contain;
 }
 
+#u1223
+{
+	position: relative;
+	background: transparent url("../images/supercrunch_cmyk_combined_mark.jpg") no-repeat center center;
+	background-size: contain;
+}
+
 #u1164
 {
 	position: relative;
@@ -129,9 +136,9 @@
 #u681-23
 {
 	background-color: transparent;
+	line-height: 11px;
 	color: #FFFFFF;
 	font-size: 9px;
-	line-height: 11px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 }
