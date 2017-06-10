@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.datafest.de" resolutions="1x" timestamp="1491485905300">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.datafest.de" resolutions="1x" timestamp="1497114724270">
   <folder name="css">
     <file name="site_global.css" crc="3945118575"/>
-    <file name="master_a-musters_-eng.css" crc="476992472" ref="datafest-germany-eng"/>
     <file name="master_b-musters.css" crc="261401761" ref="datafest-germany-weiteres"/>
+    <file name="master_a-musters_-eng.css" crc="476992472" ref="datafest-germany-eng"/>
     <file name="master_a-musters.css" crc="4184678931" ref="index"/>
-    <file name="index.css" crc="4078727393" ref="index"/>
-    <file name="datafest-germany-eng.css" crc="386956544" ref="datafest-germany-eng"/>
+    <file name="index.css" crc="4177044376" ref="index"/>
+    <file name="datafest-germany-eng.css" crc="3867939880" ref="datafest-germany-eng"/>
     <file name="datafest-germany-weiteres.css" crc="4185068380" ref="datafest-germany-weiteres"/>
   </folder>
   <folder name="scripts">
@@ -73,7 +73,7 @@
     <file name="index.html" crc="3886470407" seo="true" mt="1489059086036" redirect="true"/>
     <file name="homepage-englisch.html" crc="18050481" seo="true" mt="1489059067912" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3861804488" seo="true" mt="1491485901149" redirect="true"/>
+  <file name="index.html" crc="3989296968" seo="true" mt="1497114719950" redirect="true"/>
   <file name="datafest-germany-weiteres.html" crc="254947803" seo="true" mt="1485877715499" redirect="true"/>
-  <file name="datafest-germany-eng.html" crc="4184866106" seo="true" mt="1491485901148" redirect="true"/>
+  <file name="datafest-germany-eng.html" crc="3840488008" seo="true" mt="1497114719948" redirect="true"/>
 </manifest>

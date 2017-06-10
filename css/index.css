@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F3;
-	background-color: #1C70E1;
+	color: #0000F8;
+	background-color: #F8A398;
 }
 
 .html
@@ -138,7 +138,7 @@
 
 #u100
 {
-	z-index: 288;
+	z-index: 293;
 	height: 50px;
 	background-color: #303030;
 	background-color: rgba(0,0,0,0.81);
@@ -147,7 +147,7 @@
 
 #u100-bw
 {
-	z-index: 288;
+	z-index: 293;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -156,7 +156,7 @@
 
 #u368
 {
-	z-index: 289;
+	z-index: 294;
 	width: 72px;
 	height: 49px;
 	position: fixed;
@@ -168,7 +168,7 @@
 
 #menuu401
 {
-	z-index: 290;
+	z-index: 295;
 	width: 606px;
 	border-style: none;
 	border-color: transparent;
@@ -575,7 +575,7 @@
 
 #u1042
 {
-	z-index: 327;
+	z-index: 332;
 	width: 56px;
 	border-style: none;
 	border-color: transparent;
@@ -587,7 +587,7 @@
 
 #pu1043
 {
-	z-index: 328;
+	z-index: 333;
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
@@ -633,7 +633,7 @@
 
 #u1044-4
 {
-	z-index: 329;
+	z-index: 334;
 	width: 24px;
 	min-height: 13px;
 	background-color: transparent;
@@ -894,16 +894,16 @@
 #u844
 {
 	z-index: 88;
-	min-height: 729px;
+	min-height: 759px;
 	background-color: #2E2E2E;
-	padding-bottom: 31px;
+	padding-bottom: 29px;
 }
 
-#u1140-15
+#u1140-20
 {
 	z-index: 273;
 	width: 795px;
-	min-height: 74px;
+	min-height: 104px;
 	background-color: transparent;
 	color: #FFFFFF;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -916,7 +916,7 @@
 #u844-bw
 {
 	z-index: 88;
-	min-height: 729px;
+	min-height: 759px;
 	margin-top: 544px;
 }
 

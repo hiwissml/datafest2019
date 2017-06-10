@@ -1,7 +1,7 @@
 .version.datafest_germany_eng /* version checker */
 {
-	color: #000017;
-	background-color: #107D00;
+	color: #0000E6;
+	background-color: #8C1428;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 4924.999999999989px;
+	min-height: 4924.999999999987px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -145,7 +145,7 @@
 
 #u880
 {
-	z-index: 291;
+	z-index: 296;
 	height: 50px;
 	background-color: #303030;
 	background-color: rgba(0,0,0,0.81);
@@ -154,7 +154,7 @@
 
 #u880-bw
 {
-	z-index: 291;
+	z-index: 296;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -163,7 +163,7 @@
 
 #u881
 {
-	z-index: 292;
+	z-index: 297;
 	width: 72px;
 	height: 49px;
 	position: fixed;
@@ -175,7 +175,7 @@
 
 #menuu882
 {
-	z-index: 293;
+	z-index: 298;
 	width: 595px;
 	border-style: none;
 	border-color: transparent;
@@ -582,7 +582,7 @@
 
 #u1039
 {
-	z-index: 330;
+	z-index: 335;
 	width: 56px;
 	border-style: none;
 	border-color: transparent;
@@ -594,7 +594,7 @@
 
 #pu1040
 {
-	z-index: 331;
+	z-index: 336;
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
@@ -640,7 +640,7 @@
 
 #u1041-4
 {
-	z-index: 332;
+	z-index: 337;
 	width: 22px;
 	min-height: 13px;
 	background-color: transparent;
@@ -884,7 +884,7 @@
 #u970
 {
 	z-index: 90;
-	min-height: 712px;
+	min-height: 746px;
 	background-color: #2E2E2E;
 	padding-bottom: 256px;
 }
@@ -898,7 +898,7 @@
 	left: -100px;
 }
 
-#u1143-15
+#u1143-20
 {
 	z-index: 276;
 	width: 796px;
@@ -914,7 +914,7 @@
 #u970-bw
 {
 	z-index: 90;
-	min-height: 712px;
+	min-height: 746px;
 	margin-top: 965px;
 }
 
