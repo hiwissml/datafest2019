@@ -94,8 +94,8 @@
 #u1179
 {
 	position: relative;
-	background: transparent url("../images/Camelot2.jpg") no-repeat left top;
-	background-size: cover;
+	background: transparent url("../images/camelot3.jpg") no-repeat left top;
+	background-size: contain;
 }
 
 #u1209
