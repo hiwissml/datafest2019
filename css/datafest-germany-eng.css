@@ -1667,11 +1667,11 @@
 
 #u1209
 {
-	z-index: 84;
+	z-index: 80;
 	width: 200px;
 	height: 200px;
-	left: 100px;
-	margin-top: 42px;
+	margin-right: -10000px;
+	left: 205px;
 }
 
 #u1216
